@@ -25,3 +25,7 @@ M.Autocomplete.init(ac, {
     "Amsterdam": null
   }
 });
+
+//Material material
+const mb = document.querySelectorAll('.materialboxed');
+    M.Materialbox.init(mb, {});
